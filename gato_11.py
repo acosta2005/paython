@@ -1,6 +1,6 @@
-def main():
-    while True:
-    n = int(input("ingresa un valor n mayor que 0 "))
+def main(): 
+    miau(obtener_numero())
+
     if n < 0:
         continue
     else:
