@@ -1,0 +1,6 @@
+precio =int(input("ingrese el precio: "))
+pago = int(input("ingrese el monto del pago: "))
+
+vuelto = pago = precio 
+
+billestes_20000 =int(vuelto / 20000)
